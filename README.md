@@ -101,6 +101,8 @@ using by default but it wasn’t clear where in the Django source code it was wr
 
 * [_Quick sphinx primer_](http://scriptsonscripts.blogspot.com/2012/09/quick-sphinx-documentation-for-python.html)
 
+* Python Cheat Sheet (https://www.pythoncheatsheet.org/)
+
 ### Flask
 
 * [_The Flask Mega-Tutorial_](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
@@ -301,6 +303,7 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
  
  * [_Python Tutorial_](https://www.guru99.com/python-tutorials.html) 
 
+ * Django 2 & Python | The Ultimate Web Development Bootcamp (https://stackskills.com/p/django-2-python1)
 
 
 ### Youtube
@@ -310,6 +313,8 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 * [_10 Python Tips and Tricks For Writing Better Code_](https://www.youtube.com/watch?v=C-gEQdGVXbk&feature=youtu.be) 
 
 * [_Python Programming for Network Engineers_](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn) A Youtube course on Python programming/automation for network engineers.
+
+* Learn Python - Full Course for Beginners] (https://www.youtube.com/watch?v=rfscVS0vtbw&t=4970s)
 
  
 ### Other Resources
